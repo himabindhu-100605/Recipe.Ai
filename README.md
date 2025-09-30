@@ -11,7 +11,12 @@ and substitutions.
    source venv/bin/activate
    pip install -r requirements.txt
   ```
-2. Structure:
+
+2. Run the app:
+   ```bash
+   python app.py
+   ```
+3. Structure:
 
 
 
@@ -23,11 +28,6 @@ and substitutions.
 
 
 <img width="295" height="319" alt="Screenshot 2025-09-30 at 8 43 52 PM" src="https://github.com/user-attachments/assets/4346ca0d-4c79-422e-bf66-6b78626714aa" />
-
-3. Run the app:
-   ```bash
-   python app.py
-   ```
 
 4. Open http://localhost:5000 in your browser.
 
